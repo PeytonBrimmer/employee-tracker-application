@@ -1,4 +1,4 @@
-# employee tracker application :):):)
+# EMPLOYEE TRACKER APPLICATION :):):)
 ________________
 ## Employee Tracker Application made using mongoDB, MYSQL, NODE.JS and Inquirer
 ___________________________
