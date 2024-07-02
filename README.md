@@ -1,7 +1,7 @@
-# employee tracker application
-
-## employee tracker made using mongoDB, MYSQL, NODE.JS and inquirer
-
+# employee tracker application :):):)
+________________
+## Employee Tracker Application made using mongoDB, MYSQL, NODE.JS and Inquirer
+___________________________
 ## content
 
 1. [DESCRIPTION](#DESCRIPTION)
@@ -9,16 +9,26 @@
 1. [EXAMPLE](#EXAMPLE)
 1. [CONTACT](#CONTACT)
 1. [LICENSE](#LICENSE)
-
+___________________________
 ## INSTALLATION
-CLONE REPOSITORY AND OPEN IT IN VS CODE TERMINAL. INSTALL NODE.JS TYPE npm i INTO TERMINAL TO INSTALL NECESSARY PACKAGES. RUN mysql -u -p TO INITIALIZE YOUR MYSQL SERVER. ENTER source db/schema.sql TO CREATE A NEW DATABASE. THEN TYPE INDEX.JS INTO TERMINAL TO BEGIN USING THE APPLICATION.
+CLONE REPOSITORY THEN OPEN IN VS CODE TERMINAL.
 
+TO INSTALL NODE.JS TYPE npm i INTO TERMINAL TO INSTALL NECESSARY PACKAGES.
+ 
+ RUN mysql -u -p TO INITIALIZE YOUR MYSQL SERVER.
+ 
+  ENTER source db/schema.sql TO CREATE A NEW DATABASE. 
+  
+  THEN TYPE INDEX.JS INTO TERMINAL TO BEGIN USING THE APPLICATION.
+__________________________
 ## EXAMPLE 
 [EXAMPLE VIDEO]()
-
+___________________________
 ## CONTACT 
-[GITHUB]
+https://github.com/PeytonBrimmer
 
+
+___________________________________________
 ## LICENSE 
 MIT LICENSE
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
@@ -26,3 +36,5 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+__________________________
+## :):):):):):):):):):):):):):):):):):):):)
