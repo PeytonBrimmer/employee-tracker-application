@@ -2,14 +2,6 @@
 ________________
 ## Employee Tracker Application made using mongoDB, MYSQL, NODE.JS and Inquirer
 ___________________________
-## content
-
-1. [DESCRIPTION](#DESCRIPTION)
-1. [INSTALLATION](#INSTALLATION)
-1. [EXAMPLE](#EXAMPLE)
-1. [CONTACT](#CONTACT)
-1. [LICENSE](#LICENSE)
-___________________________
 ## INSTALLATION
 CLONE REPOSITORY THEN OPEN IN VS CODE TERMINAL.
 
@@ -19,11 +11,8 @@ TO INSTALL NODE.JS TYPE npm i INTO TERMINAL TO INSTALL NECESSARY PACKAGES.
  
   ENTER source db/schema.sql TO CREATE A NEW DATABASE. 
   
-  THEN TYPE INDEX.JS INTO TERMINAL TO BEGIN USING THE APPLICATION.
+  THEN TYPE NODE INDEX.JS INTO TERMINAL TO BEGIN USING THE APPLICATION.
 __________________________
-## EXAMPLE 
-[EXAMPLE VIDEO]()
-___________________________
 ## CONTACT 
 https://github.com/PeytonBrimmer
 
